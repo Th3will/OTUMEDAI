@@ -1,0 +1,3 @@
+[submodule "medai2021-polypixel"]
+	path = medai2021-polypixel
+	url = git@github.com:ylefen/medai2021-polypixel.git
