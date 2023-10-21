@@ -299,7 +299,6 @@ checkpoint_dir = os.path.dirname(checkpoint_path)
 
 
 # run = neptune.init(project='SSCP/HyperKvasir',
-                #    api_token='eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiIzMGUyN2Q2ZS05MjVkLTRlMzItODYwZS0yODQ3ZWU3ZTdmMmEifQ==') # your credentials
 
 
 batchsize = 2
