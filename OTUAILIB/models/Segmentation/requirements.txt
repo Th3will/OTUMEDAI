@@ -5,4 +5,5 @@ pandas
 opencv-python
 scikit-image
 tensorflow
-segmentation_models
+SimpleITK
+segmentation-models==1.0.1

@@ -1,8 +1,8 @@
-path:  /home/wni1717/dev/OTUMEDAI/VNN/test_dataset
+path: /home/th3will/dev/OTUMEDAI/training_data/yolo
 train: images/train  # train images (relative to 'path') 8 images
 val: images/val  # val images (relative to 'path') 8 images
 test:  # test images (optional)
 
 # Classes
 names:
-  0: Word
+  0: Kidney Stone

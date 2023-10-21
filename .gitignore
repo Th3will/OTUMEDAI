@@ -1,2 +1,7 @@
 /home/wni1717/dev/OTUMEDAI/OTUAILIB/models/Segmentation/Polyp_Segmentation_Task/Checkpoint
 /training_data/yolo/
+/test/seg_source/
+OTUAILIB/models/Segmentation/training/images/
+OTUAILIB/models/Segmentation/training/masks/
+OTUAILIB/models/Segmentation/libcublas-12-0_12.0.2.224-1_amd64.deb
+OTUAILIB/models/Segmentation/Polyp_Segmentation_Task/Kidney_Check

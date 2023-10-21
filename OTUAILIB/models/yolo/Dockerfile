@@ -2,6 +2,7 @@
 # sudo create yolo
 # sudo run <name> -it --ipc=host --gpus all $t
 FROM ultralytics/ultralytics:latest
+WORKDIR /code
 COPY . .
 RUN ls -al
 RUN pip install -r requirements.txt
